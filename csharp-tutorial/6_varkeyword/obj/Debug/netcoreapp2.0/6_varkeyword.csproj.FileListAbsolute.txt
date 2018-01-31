@@ -1,0 +1,10 @@
+D:\mstcvit.github.com\csharp-vs-session-2018\csharp-tutorial\6_varkeyword\bin\Debug\netcoreapp2.0\6_varkeyword.deps.json
+D:\mstcvit.github.com\csharp-vs-session-2018\csharp-tutorial\6_varkeyword\bin\Debug\netcoreapp2.0\6_varkeyword.runtimeconfig.json
+D:\mstcvit.github.com\csharp-vs-session-2018\csharp-tutorial\6_varkeyword\bin\Debug\netcoreapp2.0\6_varkeyword.runtimeconfig.dev.json
+D:\mstcvit.github.com\csharp-vs-session-2018\csharp-tutorial\6_varkeyword\bin\Debug\netcoreapp2.0\6_varkeyword.dll
+D:\mstcvit.github.com\csharp-vs-session-2018\csharp-tutorial\6_varkeyword\bin\Debug\netcoreapp2.0\6_varkeyword.pdb
+D:\mstcvit.github.com\csharp-vs-session-2018\csharp-tutorial\6_varkeyword\obj\Debug\netcoreapp2.0\6_varkeyword.csproj.CoreCompileInputs.cache
+D:\mstcvit.github.com\csharp-vs-session-2018\csharp-tutorial\6_varkeyword\obj\Debug\netcoreapp2.0\6_varkeyword.AssemblyInfoInputs.cache
+D:\mstcvit.github.com\csharp-vs-session-2018\csharp-tutorial\6_varkeyword\obj\Debug\netcoreapp2.0\6_varkeyword.AssemblyInfo.cs
+D:\mstcvit.github.com\csharp-vs-session-2018\csharp-tutorial\6_varkeyword\obj\Debug\netcoreapp2.0\6_varkeyword.dll
+D:\mstcvit.github.com\csharp-vs-session-2018\csharp-tutorial\6_varkeyword\obj\Debug\netcoreapp2.0\6_varkeyword.pdb

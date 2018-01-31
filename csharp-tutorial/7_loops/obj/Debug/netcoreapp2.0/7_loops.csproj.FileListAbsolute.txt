@@ -1,0 +1,10 @@
+D:\mstcvit.github.com\csharp-vs-session-2018\csharp-tutorial\7_loops\bin\Debug\netcoreapp2.0\7_loops.deps.json
+D:\mstcvit.github.com\csharp-vs-session-2018\csharp-tutorial\7_loops\bin\Debug\netcoreapp2.0\7_loops.runtimeconfig.json
+D:\mstcvit.github.com\csharp-vs-session-2018\csharp-tutorial\7_loops\bin\Debug\netcoreapp2.0\7_loops.runtimeconfig.dev.json
+D:\mstcvit.github.com\csharp-vs-session-2018\csharp-tutorial\7_loops\bin\Debug\netcoreapp2.0\7_loops.dll
+D:\mstcvit.github.com\csharp-vs-session-2018\csharp-tutorial\7_loops\bin\Debug\netcoreapp2.0\7_loops.pdb
+D:\mstcvit.github.com\csharp-vs-session-2018\csharp-tutorial\7_loops\obj\Debug\netcoreapp2.0\7_loops.csproj.CoreCompileInputs.cache
+D:\mstcvit.github.com\csharp-vs-session-2018\csharp-tutorial\7_loops\obj\Debug\netcoreapp2.0\7_loops.AssemblyInfoInputs.cache
+D:\mstcvit.github.com\csharp-vs-session-2018\csharp-tutorial\7_loops\obj\Debug\netcoreapp2.0\7_loops.AssemblyInfo.cs
+D:\mstcvit.github.com\csharp-vs-session-2018\csharp-tutorial\7_loops\obj\Debug\netcoreapp2.0\7_loops.dll
+D:\mstcvit.github.com\csharp-vs-session-2018\csharp-tutorial\7_loops\obj\Debug\netcoreapp2.0\7_loops.pdb

@@ -1,0 +1,10 @@
+D:\mstcvit.github.com\csharp-vs-session-2018\csharp-tutorial\9_lists\bin\Debug\netcoreapp2.0\9_lists.deps.json
+D:\mstcvit.github.com\csharp-vs-session-2018\csharp-tutorial\9_lists\bin\Debug\netcoreapp2.0\9_lists.runtimeconfig.json
+D:\mstcvit.github.com\csharp-vs-session-2018\csharp-tutorial\9_lists\bin\Debug\netcoreapp2.0\9_lists.runtimeconfig.dev.json
+D:\mstcvit.github.com\csharp-vs-session-2018\csharp-tutorial\9_lists\bin\Debug\netcoreapp2.0\9_lists.dll
+D:\mstcvit.github.com\csharp-vs-session-2018\csharp-tutorial\9_lists\bin\Debug\netcoreapp2.0\9_lists.pdb
+D:\mstcvit.github.com\csharp-vs-session-2018\csharp-tutorial\9_lists\obj\Debug\netcoreapp2.0\9_lists.csproj.CoreCompileInputs.cache
+D:\mstcvit.github.com\csharp-vs-session-2018\csharp-tutorial\9_lists\obj\Debug\netcoreapp2.0\9_lists.AssemblyInfoInputs.cache
+D:\mstcvit.github.com\csharp-vs-session-2018\csharp-tutorial\9_lists\obj\Debug\netcoreapp2.0\9_lists.AssemblyInfo.cs
+D:\mstcvit.github.com\csharp-vs-session-2018\csharp-tutorial\9_lists\obj\Debug\netcoreapp2.0\9_lists.dll
+D:\mstcvit.github.com\csharp-vs-session-2018\csharp-tutorial\9_lists\obj\Debug\netcoreapp2.0\9_lists.pdb

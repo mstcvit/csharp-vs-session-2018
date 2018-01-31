@@ -1,0 +1,10 @@
+D:\mstcvit.github.com\csharp-vs-session-2018\csharp-tutorial\3_strings\bin\Debug\netcoreapp2.0\3_strings.deps.json
+D:\mstcvit.github.com\csharp-vs-session-2018\csharp-tutorial\3_strings\bin\Debug\netcoreapp2.0\3_strings.runtimeconfig.json
+D:\mstcvit.github.com\csharp-vs-session-2018\csharp-tutorial\3_strings\bin\Debug\netcoreapp2.0\3_strings.runtimeconfig.dev.json
+D:\mstcvit.github.com\csharp-vs-session-2018\csharp-tutorial\3_strings\bin\Debug\netcoreapp2.0\3_strings.dll
+D:\mstcvit.github.com\csharp-vs-session-2018\csharp-tutorial\3_strings\bin\Debug\netcoreapp2.0\3_strings.pdb
+D:\mstcvit.github.com\csharp-vs-session-2018\csharp-tutorial\3_strings\obj\Debug\netcoreapp2.0\3_strings.csproj.CoreCompileInputs.cache
+D:\mstcvit.github.com\csharp-vs-session-2018\csharp-tutorial\3_strings\obj\Debug\netcoreapp2.0\3_strings.AssemblyInfoInputs.cache
+D:\mstcvit.github.com\csharp-vs-session-2018\csharp-tutorial\3_strings\obj\Debug\netcoreapp2.0\3_strings.AssemblyInfo.cs
+D:\mstcvit.github.com\csharp-vs-session-2018\csharp-tutorial\3_strings\obj\Debug\netcoreapp2.0\3_strings.dll
+D:\mstcvit.github.com\csharp-vs-session-2018\csharp-tutorial\3_strings\obj\Debug\netcoreapp2.0\3_strings.pdb

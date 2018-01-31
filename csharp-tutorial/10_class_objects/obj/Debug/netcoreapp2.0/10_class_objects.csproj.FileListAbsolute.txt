@@ -1,0 +1,10 @@
+D:\mstcvit.github.com\csharp-vs-session-2018\csharp-tutorial\10_class_objects\bin\Debug\netcoreapp2.0\10_class_objects.deps.json
+D:\mstcvit.github.com\csharp-vs-session-2018\csharp-tutorial\10_class_objects\bin\Debug\netcoreapp2.0\10_class_objects.runtimeconfig.json
+D:\mstcvit.github.com\csharp-vs-session-2018\csharp-tutorial\10_class_objects\bin\Debug\netcoreapp2.0\10_class_objects.runtimeconfig.dev.json
+D:\mstcvit.github.com\csharp-vs-session-2018\csharp-tutorial\10_class_objects\bin\Debug\netcoreapp2.0\10_class_objects.dll
+D:\mstcvit.github.com\csharp-vs-session-2018\csharp-tutorial\10_class_objects\bin\Debug\netcoreapp2.0\10_class_objects.pdb
+D:\mstcvit.github.com\csharp-vs-session-2018\csharp-tutorial\10_class_objects\obj\Debug\netcoreapp2.0\10_class_objects.csproj.CoreCompileInputs.cache
+D:\mstcvit.github.com\csharp-vs-session-2018\csharp-tutorial\10_class_objects\obj\Debug\netcoreapp2.0\10_class_objects.AssemblyInfoInputs.cache
+D:\mstcvit.github.com\csharp-vs-session-2018\csharp-tutorial\10_class_objects\obj\Debug\netcoreapp2.0\10_class_objects.AssemblyInfo.cs
+D:\mstcvit.github.com\csharp-vs-session-2018\csharp-tutorial\10_class_objects\obj\Debug\netcoreapp2.0\10_class_objects.dll
+D:\mstcvit.github.com\csharp-vs-session-2018\csharp-tutorial\10_class_objects\obj\Debug\netcoreapp2.0\10_class_objects.pdb

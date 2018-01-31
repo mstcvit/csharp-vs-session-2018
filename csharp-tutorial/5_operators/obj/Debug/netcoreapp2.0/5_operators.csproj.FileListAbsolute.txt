@@ -1,0 +1,10 @@
+D:\mstcvit.github.com\csharp-vs-session-2018\csharp-tutorial\5_operators\bin\Debug\netcoreapp2.0\5_operators.deps.json
+D:\mstcvit.github.com\csharp-vs-session-2018\csharp-tutorial\5_operators\bin\Debug\netcoreapp2.0\5_operators.runtimeconfig.json
+D:\mstcvit.github.com\csharp-vs-session-2018\csharp-tutorial\5_operators\bin\Debug\netcoreapp2.0\5_operators.runtimeconfig.dev.json
+D:\mstcvit.github.com\csharp-vs-session-2018\csharp-tutorial\5_operators\bin\Debug\netcoreapp2.0\5_operators.dll
+D:\mstcvit.github.com\csharp-vs-session-2018\csharp-tutorial\5_operators\bin\Debug\netcoreapp2.0\5_operators.pdb
+D:\mstcvit.github.com\csharp-vs-session-2018\csharp-tutorial\5_operators\obj\Debug\netcoreapp2.0\5_operators.csproj.CoreCompileInputs.cache
+D:\mstcvit.github.com\csharp-vs-session-2018\csharp-tutorial\5_operators\obj\Debug\netcoreapp2.0\5_operators.AssemblyInfoInputs.cache
+D:\mstcvit.github.com\csharp-vs-session-2018\csharp-tutorial\5_operators\obj\Debug\netcoreapp2.0\5_operators.AssemblyInfo.cs
+D:\mstcvit.github.com\csharp-vs-session-2018\csharp-tutorial\5_operators\obj\Debug\netcoreapp2.0\5_operators.dll
+D:\mstcvit.github.com\csharp-vs-session-2018\csharp-tutorial\5_operators\obj\Debug\netcoreapp2.0\5_operators.pdb
